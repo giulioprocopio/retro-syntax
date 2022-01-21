@@ -12,9 +12,9 @@
     "pastel",
     "90s"
   ],
-    "repository": "https://github.com/Giuppox/retro-syntax",
-    "licenses": "BSD-3-Clause License",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "repository": "https://github.com/Giuppox/retro-syntax",
+  "licenses": "BSD-3-Clause License",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
