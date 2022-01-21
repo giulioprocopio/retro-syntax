@@ -7,3 +7,12 @@ basically blows up.
 [1]: https://github.com/Giuppox
 [2]: https://github.com/melinadonati
 [3]: https://github.com/melinadonati/90s-tshirt-syntax
+
+## Installation
+You may both use Atom graphical package manager and `apm` for installation.
+```bash
+apm install https://github.com/Giuppox/retro-syntax.git
+```
+Check out also [atom.io][4] for installation.
+
+[4]: https://atom.io/packages/retro-syntax
