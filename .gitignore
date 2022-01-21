@@ -1,0 +1,6 @@
+# MacOS system files.
+.DS_Store
+
+# Node.js related.
+npm-debug.log
+node_modules
